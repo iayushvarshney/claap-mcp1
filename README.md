@@ -11,7 +11,7 @@ Connect Claap to Claude Desktop in one command.
 
 ### Step 2 — Run this in Terminal
 ```bash
-curl -s https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/claap-mcp/main/install.sh | bash
+curl -s https://raw.githubusercontent.com/iayushvarshney/claap-mcp1/main/install.sh | bash
 ```
 
 ### Step 3 — Restart Claude Desktop
